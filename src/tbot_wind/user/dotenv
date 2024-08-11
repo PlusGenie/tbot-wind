@@ -1,0 +1,17 @@
+
+# -------------------------------------------------------------------
+#  Configure TBOT-WIND
+# -------------------------------------------------------------------
+
+TBOT_WIND_HTTP_SERVER_ADDR = "http://localhost:5000/webhook"
+
+TBOT_WIND_LOGLEVEL = INFO
+TBOT_WIND_IB_LOGLEVEL = INFO
+TBOT_WIND_LOGFILE = "/tmp/tbot_wind_log.txt"
+TBOT_WIND_IB_TIMEZONE = "US/Eastern"
+TBOT_WIND_DB_OFFICE="/tmp/tbot_wind_sqlite3"
+
+# TBOT Wind (a separate service) will also have its own connection to IB Gateway.
+# It needs a different clientID to avoid conflicts with other services (e.g., TBOT).
+# Each clientID must be unique per connected client to the IB Gateway.
+TBOT_WIND_IBKR_CLIENTID = 11  # Client ID used by TBOT Wind for its own connection

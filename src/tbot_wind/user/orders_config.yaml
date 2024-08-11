@@ -1,0 +1,54 @@
+orders:
+  - symbol: "GOOGL"
+    timeframe: "1D"
+    timezone: "US/Eastern"
+    qty: 10.0
+    currency: "USD"
+    entryLimit: 0.0
+    entryStop: 0.0
+    exitLimit: 0.0
+    exitStop: 0.0
+    price: 0.0
+    orderRef: "defaultRef"
+    tif: "GTC"
+    exchange: "SMART"
+    duration: "4 W"
+    bootup_duration: "2 Y"
+    end_date: ""
+    indicator: "alphatrend"
+
+  - symbol: "GOOGL"
+    timeframe: "1D"
+    timezone: "US/Eastern"
+    qty: 10.0
+    currency: "USD"
+    entryLimit: 0.0
+    entryStop: 0.0
+    exitLimit: 0.0
+    exitStop: 0.0
+    price: 0.0
+    orderRef: "defaultRef"
+    tif: "GTC"
+    exchange: "SMART"
+    duration: "4 W"
+    bootup_duration: "2 Y"
+    end_date: ""
+    indicator: "supertrend"
+
+  - symbol: "AAPL"
+    timeframe: "240"
+    timezone: "US/Eastern"
+    qty: 20.0
+    currency: "USD"
+    entryLimit: 150.0
+    entryStop: 148.0
+    exitLimit: 160.0
+    exitStop: 145.0
+    price: 0.0
+    orderRef: "orderRef2"
+    tif: "GTC"
+    exchange: "SMART"
+    duration: "2 W"
+    bootup_duration: "1 Y"
+    end_date: ""
+    indicator: "macd"
