@@ -18,6 +18,9 @@ While large-scale platforms excel at distributed systems, TBOT-Wind is optimized
 ## Historical Background
 Initially developed for the TradingBoat platform, TBOT-Wind now operates independently, eliminating dependencies on external services like TradingView or Ngrok. It provides users with full control over custom technical indicators and webhook generation.
 
+## Block Diagram
+![SoftwareArchitectureV8-TBOT-Wind](https://github.com/user-attachments/assets/9589c613-989a-486e-9b58-fd52143b5b7b)
+
 ## Running TBOT-WIND
 
 ### 1. Download the Program
