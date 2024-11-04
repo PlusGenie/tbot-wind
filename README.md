@@ -64,3 +64,7 @@ poetry run tbot-wind
 ```
 
 TBOT-Wind provides a powerful, flexible solution for creating custom trading indicators and generating real-time Webhook alerts.
+
+## Reference
+* [How to Run the TBOT-WIND](https://tbot.plusgenie.com/how-to-run-the-tbot-wind)
+
