@@ -68,3 +68,7 @@ TBOT-Wind provides a powerful, flexible solution for creating custom trading ind
 ## Reference
 * [How to Run the TBOT-WIND](https://tbot.plusgenie.com/how-to-run-the-tbot-wind)
 
+### Books
+* [Book: TBOT-Wind, A Guide to Custom Trading Indicators and Webhooks](https://tbot.plusgenie.com/book-tbot-wind-a-guide-to-custom-trading-indicators-and-webhooks)
+* [Book: Converting TradingView PineScript Alerts into Interactive Brokers Orders](https://tbot.plusgenie.com/book-converting-tradingview-pinescript-alerts-into-interactive-brokers-orders)
+
